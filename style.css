@@ -1,0 +1,27 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+    margin: 0 auto;
+    padding: 2rem;
+
+}
+
+.friend {
+    background-color: lightgray;
+    position: relative;
+    margin: 0 auto;
+    padding: 1rem;
+    width: 50%;
+    border-radius: 1rem;
+
+}
+
+.friend h3 {
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 1rem;
+}
